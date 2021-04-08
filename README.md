@@ -2,6 +2,7 @@
 <h3 align="center">A passionate Data Scientist from Brasil</h3>
 
 <img src="https://i.pinimg.com/originals/0d/94/7f/0d947fd5e2cfc1759b23d04a6cf56352.gif" width="300" height="200">
+
 - 🌱 I’m currently learning **Data Science**
 - 📝 I regularly write articles on [https://medium.com/@vitor.delaney](https://medium.com/@vitor.delaney)
 - 📫 How to reach me **vitor.delaney@gmail.com**
