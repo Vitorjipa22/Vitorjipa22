@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vitor-custódio-9800841ba" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/vitor-custódio-9800841ba" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vitor-cust%C3%B3dio-9800841ba/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/vitor-custódio-9800841ba" height="30" width="40" /></a>
 <a href="https://medium.com/@vitor.delaney" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@vitor.delaney" height="30" width="40" /></a>
 </p>
 
