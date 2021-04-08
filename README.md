@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vitor Custódio Chagas</h1>
 <h3 align="center">A passionate Data Scientist from Brasil</h3>
 
+![](https://i.pinimg.com/originals/0d/94/7f/0d947fd5e2cfc1759b23d04a6cf56352.gif)
 - 🌱 I’m currently learning **Data Science**
-- ![](http://clubedosgeeks.com.br/wp-content/uploads/2016/01/funcionou.gif)
-
 - 📝 I regularly write articles on [https://medium.com/@vitor.delaney](https://medium.com/@vitor.delaney)
-
 - 📫 How to reach me **vitor.delaney@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
