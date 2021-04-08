@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Graduando em Engenharia de Controle e Automação, futuro cientista de dados, tenho uma paixão enorme por inteligência artificial e estou buscando me aperfeiçoar para futuramente conseguir um estágio em ciência de dados ou áreas afins.
 <!--
 **Vitorjipa22/Vitorjipa22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
