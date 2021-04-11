@@ -4,13 +4,13 @@
 <img src="https://i.pinimg.com/originals/0d/94/7f/0d947fd5e2cfc1759b23d04a6cf56352.gif" width="300" height="200">
 
 - 🌱 I’m currently learning **Data Science**
-- 📝 I regularly write articles on [https://medium.com/@vitor.custodio22](https://medium.com/@vitor.custodio22)
+- 📝 I regularly write articles on [https://vitor-custodio22.medium.com/](https://vitor-custodio22.medium.com/)
 - 📫 How to reach me **vitor.delaney@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/vitor-cust%C3%B3dio-9800841ba/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/vitor-custódio-9800841ba" height="30" width="40" /></a>
-<a href="https://medium.com/@vitor.custodio22" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@vitor.delaney" height="30" width="40" /></a>
+<a href="https://vitor-custodio22.medium.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@vitor.delaney" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
