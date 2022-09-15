@@ -1,11 +1,12 @@
-<h1 align="center">Hi 👋, I'm Vitor Custódio Chagas</h1>
-<h3 align="center">A passionate Data Scientist from Brasil</h3>
+<h1 align="center">Olá eu sou Vitor Custódio Chagas</h1>
+<h3 align="center">Um programador brasileiro muito curioso :bulb:</h3>
 
-<img src="https://i.pinimg.com/originals/0d/94/7f/0d947fd5e2cfc1759b23d04a6cf56352.gif" width="300" height="200">
 
-- 🌱 I’m currently learning **Data Science**
-- 📝 I regularly write articles on [https://vitor-custodio22.medium.com/](https://vitor-custodio22.medium.com/)
-- 📫 How to reach me **vitor.delaney@gmail.com**
+![image](https://user-images.githubusercontent.com/76737266/190285654-572e17d0-2b62-4829-b0cb-da6ae3c0669f.png)
+
+
+- 📝 Eu escrevo artigos neste link: [https://vitor-custodio22.medium.com/](https://vitor-custodio22.medium.com/)
+- 📫 meu email: **vitor.c.chagas22@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
