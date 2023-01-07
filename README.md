@@ -1,8 +1,14 @@
-<h1 align="center">Olá eu sou Vitor Custódio Chagas</h1>
-<h3 align="center">Um programador brasileiro muito curioso :bulb:</h3>
+<h2 align="center">Hey!! my name is <strong>Vitor</strong></h2>
+<h3 align="center">Um programador brasileiro muito curioso</h3>
 
 
-![image](https://user-images.githubusercontent.com/76737266/190285654-572e17d0-2b62-4829-b0cb-da6ae3c0669f.png)
+<img src="https://user-images.githubusercontent.com/76737266/190285654-572e17d0-2b62-4829-b0cb-da6ae3c0669f.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+
+
+
+![hello](https://thumbs.gfycat.com/BonyTotalArthropods-mobile.mp4)
+
 
 
 - 📝 Eu escrevo artigos neste link: [https://vitor-custodio22.medium.com/](https://vitor-custodio22.medium.com/)
