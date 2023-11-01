@@ -19,4 +19,4 @@
 <h3 align="left">Tools and Skills:</h3>
 
 
-[![My Skills](https://skills.thijs.gg/icons?i=matlab,vscode,latex,arduino,python,github,c,docker,pytorch,tensorflow,git,markdown,java,aws,cpp,ai,mysql)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=matlab,vscode,latex,arduino,python,github,c,docker,pytorch,tensorflow,git,markdown,java,aws,cpp,ai,mysql,opencv)](https://skills.thijs.gg)
