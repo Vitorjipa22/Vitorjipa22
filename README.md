@@ -2,7 +2,7 @@
 
 <img src="https://img.freepik.com/fotos-gratis/papel-de-parede-abstrato-universo_1017-3204.jpg?w=740&t=st=1673126386~exp=1673126986~hmac=4c6dae5661ac5a83588caad365e7e824eadedd2a21ca471ea8c09c4e4557b3aa" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<p align="left"> 
+<p align="center"> 
 
  &nbsp; I am a control and automation engineer with specialization in neural networks, focusing specifically on the field of computer vision, which I find particularly interesting for research. I aim to apply my solid knowledge in control and automation, along with expertise in neural networks, to contribute effectively to the development of practical and innovative solutions. My goal is to explore and implement the latest techniques in artificial intelligence, enhancing computer vision significantly and becoming an essential professional in this field..<br>
   
