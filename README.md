@@ -4,9 +4,8 @@
 
 <p align="left"> 
 
- &nbsp; I'm Vitor Custódio Chagas, a Control and Automation Engineer, Artificial Intelligence Researcher, and a Computer Vision enthusiast.<br>
+ &nbsp; I am a control and automation engineer with specialization in neural networks, focusing specifically on the field of computer vision, which I find particularly interesting for research. I aim to apply my solid knowledge in control and automation, along with expertise in neural networks, to contribute effectively to the development of practical and innovative solutions. My goal is to explore and implement the latest techniques in artificial intelligence, enhancing computer vision significantly and becoming an essential professional in this field..<br>
   
- &nbsp; Currently, I'm focused on diagnostics, tuning, fault detection, and other aspects of advanced system control using PSO, Neural Networks, and other techniques.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
