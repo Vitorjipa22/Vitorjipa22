@@ -4,11 +4,11 @@
 
 <p align="center"> 
 
- &nbsp; I am a control and automation engineer with specialization in neural networks, focusing specifically on the field of computer vision, which I find particularly interesting for research. I aim to apply my solid knowledge in control and automation, along with expertise in neural networks, to contribute effectively to the development of practical and innovative solutions. My goal is to explore and implement the latest techniques in artificial intelligence, enhancing computer vision significantly and becoming an essential professional in this field..<br>
+ &nbsp;I am a control and automation engineer with specialization in neural networks, focusing specifically on the field of computer vision, which I find particularly interesting for research. I aim to apply my solid knowledge in control and automation, along with expertise in neural networks, to contribute effectively to the development of practical and innovative solutions. My goal is to explore and implement the latest techniques in artificial intelligence, enhancing computer vision significantly and becoming an essential professional in this field..<br>
   
 
 <h3 align="left">Connect with me:</h3>
-<p align="center">
+<p align="left">
 <a href="https://www.linkedin.com/in/vitor-cust%C3%B3dio-9800841ba/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/vitor-custódio-9800841ba" height="30" width="40" /></a>
 <a href="https://vitor-custodio22.medium.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@vitor.delaney" height="30" width="40" /></a>
 </p>
